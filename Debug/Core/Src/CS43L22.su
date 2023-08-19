@@ -1,0 +1,4 @@
+CS43L22.c:19:6:audioInit	32	static
+CS43L22.c:71:6:audioPlay	24	static
+CS43L22.c:90:6:audioVolume	40	static
+CS43L22.c:98:6:swapBuffer	16	static
